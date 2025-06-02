@@ -6,7 +6,7 @@ This project demonstrates a full end-to-end **real-time data engineering pipelin
 
 ## 📌 Architecture
 
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram]<img src="architecture_diagram.png" width="900">
 
 ---
 
